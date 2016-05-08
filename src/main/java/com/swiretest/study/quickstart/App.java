@@ -27,5 +27,7 @@ public class App
         
 
         System.out.println("test-www123");
+        
+        System.out.println("ok");
     }
 }
