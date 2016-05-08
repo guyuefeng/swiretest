@@ -22,8 +22,11 @@ public class App
         
         System.out.println("test3");
         
+<<<<<<< HEAD
         System.out.println("haodongxi");
         
+=======
+>>>>>>> branch 'master' of https://github.com/guyuefeng/swiretest.git
         
         System.out.println("test-www");
     }
