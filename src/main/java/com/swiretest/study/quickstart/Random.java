@@ -6,6 +6,8 @@ public class Random {
 		// TODO Auto-generated method stub
 		
 		System.out.println("test Reandom");
+		
+		System.out.println("test2");
 
 	}
 
