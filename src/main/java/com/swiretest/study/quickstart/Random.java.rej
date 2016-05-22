@@ -1,0 +1,14 @@
+diff a/src/main/java/com/swiretest/study/quickstart/Random.java b/src/main/java/com/swiretest/study/quickstart/Random.java	(rejected hunks)
+@@ -0,0 +1,12 @@
++package com.swiretest.study.quickstart;
++
++public class Random {
++
++	public static void main(String[] args) {
++		// TODO Auto-generated method stub
++		
++		System.out.println("test Reandom");
++
++	}
++
++}
