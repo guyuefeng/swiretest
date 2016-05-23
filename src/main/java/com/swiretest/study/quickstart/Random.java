@@ -16,13 +16,15 @@ public class Random {
 
 		System.out.println(a);
 
-		// Random random = newRandom();
-		// int result=random.nextInt(10000);
-		// System.out.println(result);
+//		 Random random = newRandom();
+//		 int result=random.nextInt(10000);
+//		 System.out.println(result);
 
 		String uniqueId = java.util.UUID.randomUUID().toString();
 
 		System.out.println(uniqueId);
+		
+		System.out.println("test random");
 	}
 
 }
